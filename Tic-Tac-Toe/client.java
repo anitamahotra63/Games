@@ -1,4 +1,4 @@
-package lect22.tic_tac_toe;
+
 
 public class client {
 
